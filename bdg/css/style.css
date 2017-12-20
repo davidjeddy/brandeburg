@@ -1,0 +1,219 @@
+/* CSS Document */
+body {
+	background-color:	#777777;
+	margin:		25px;
+	}
+
+font{
+	color: #000000;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+table{
+	background-color:#dbd3be;  
+	width:100%;
+	border:0px;
+	border-style:solid;
+	border-color:#000000;		
+}
+
+
+
+.linkspage{border:0;
+			background-color:#dbd3be;
+			margin:0;
+			
+}
+
+li{margin-left:35px;
+}
+
+p{color: #000000; font-size:small;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left:25px;
+	margin-right:10px
+	}
+	
+.whyus{
+font-style:italic;
+} 
+
+
+
+.headercell{
+ background-color:#dbd3be;
+}
+
+.linksarea{border-bottom-width:0;
+ border-left-width:0;
+  border-right-width:2px;
+   border-top-width:2px;
+    border-color:#000000;
+	 border-style:solid;
+}
+.mainareaborder{border-bottom-width:0;
+ border-left-width:0;
+  border-right-width:0;
+   border-top-width:2px;
+    border-color:#000000;
+	 border-style:solid;
+}
+
+.noborder{border:0;}
+
+.topalign{vertical-align:top;}
+
+.bottomcell{background-color:#dbd3be;}
+
+.contact{font-size:smaller;
+		
+	}
+
+h1{ color:#006600;
+	font-size: xx-large;
+	font-family: Times New Roman, Times, serif;
+	margin-left:10px;
+}
+
+h2{color: #006600;
+	font-size: x-large;
+	font-family: "Times New Roman", Times, serif;
+	margin-left:10px;
+}
+
+
+
+h3{ color:#006600;
+	font-size: large;
+	font-weight:bold;
+	margin-left:10px;
+}
+
+h4{color:#006600;
+	font-size: large;
+	font-weight:bold;
+	margin-left:10px;
+}
+
+h5{color:#006600;
+	font-size:medium;
+	font-weight:bold;
+	margin-left:10px;
+
+
+}
+
+h6{color:#006600;
+	font-size:medium;
+	font-weight:bold;
+	margin-left:10px;
+
+
+}	
+
+a:link, a:visited {
+
+	color:#006600;
+	text-decoration: underline;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:small;
+}
+
+
+
+a:hover, a:active {
+	text-decoration: underline;
+	color: #009900;
+	font-size:small;
+}
+
+/*Added by David (Dj) Eddy*/
+/*for menu */
+a:link.menulink{
+	color:#006600;
+	font-weight:bold;
+	text-decoration: none;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:hover.menulink{
+	color:#006600;
+	font-weight:bold;
+	text-decoration: none;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+a:active.menulink{
+	color:#006600;
+	font-weight:bold;
+	text-decoration: none;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:visited.menulink{
+	color:#006600;
+	font-weight:bold;
+	text-decoration: none;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+a:link.menulink2{
+	color:#006600;
+	text-decoration: none;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:hover.menulink2{
+	color:#006600;
+	text-decoration: none;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+a:active.menulink2{
+	color:#006600;
+	text-decoration: none;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:visited.menulink2{
+	color:#006600;
+	text-decoration: none;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+a:link.tourlinks{
+	color:#006600;
+	text-decoration: none;
+	font-size:medium;
+	font-weight:bolder;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:hover.tourlinks{
+	color:#006600;
+	text-decoration: none;
+	font-size:medium;
+	font-weight:bolder;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+	}
+a:active.tourlinks{
+	color:#006600;
+	text-decoration: none;
+	font-size:medium;
+	font-weight:bolder;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:visited.tourlinks{
+	color:#006600;
+	text-decoration: none;
+	font-size:medium;
+	font-weight:bolder;
+	font-size:	12pt;
+	font-family:Arial, Helvetica, sans-serif;
+}

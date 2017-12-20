@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<forsale>
+	<property>
+		<name>Lasher Property</name>
+		<size>16 Acres</size>
+		<location>somewhere south of here</location>
+		<pricing>15 million</pricing>
+		<highlights>1 highlight</highlights>
+		<photo>1 photo</photo>
+	</property>
+	
+	<property>
+		<name>Someother place 1</name>
+		<size>16 Acres</size>
+		<location>somewhere south of here</location>
+		<pricing>15 million</pricing>
+		<highlights>2 highlight</highlights>
+		<photo>2photo</photo>
+	</property>
+	
+	<property>
+		<name>someother place 2</name>
+		<size>60 Acres</size>
+		<location>just east of the villages</location>
+		<pricing>50 million</pricing>
+		<highlights>3 high light</highlights>
+		<photo>3 photo</photo>
+	</property>
+</forsale>

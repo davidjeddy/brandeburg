@@ -1,0 +1,657 @@
+MG2 LFS (Log File System)
+
+Version: 0.5.1
+Install date: 2005-12-27
+
+---LOG BEGIN------------------
+
+20051230, 14.10.25 : Logoff
+20060103, 15.15.04 : Logon from 24.94.159.232
+20060103, 15.15.54 : Writing image database
+20060103, 15.15.54 : Writing folder database
+20060103, 15.15.54 : File edit 'statue.jpg' complete
+20060103, 15.16.09 : Writing image database
+20060103, 15.16.09 : Writing folder database
+20060103, 15.16.09 : File edit 'tnsqrrodelook.jpg' complete
+20060103, 15.21.52 : Writing image database
+20060103, 15.21.52 : Writing folder database
+20060103, 15.21.52 : File edit 'rialto.jpg' complete
+20060103, 15.21.58 : Writing image database
+20060103, 15.21.58 : Writing folder database
+20060103, 15.21.58 : File edit 'chambercom.jpg' complete
+20060103, 15.22.05 : Writing image database
+20060103, 15.22.05 : Writing folder database
+20060103, 15.22.05 : File edit 'bridge.jpg' complete
+20060103, 15.22.10 : Writing image database
+20060103, 15.22.10 : Writing folder database
+20060103, 15.22.10 : File edit 'auggies.jpg' complete
+20060103, 15.27.08 : Logon from 24.94.159.232
+20060103, 15.28.31 : Writing image database
+20060103, 15.28.31 : Writing folder database
+20060103, 15.28.31 : File edit 'statue.jpg' complete
+20060103, 15.28.43 : Writing image database
+20060103, 15.28.43 : Writing folder database
+20060103, 15.28.43 : File edit 'statue.jpg' complete
+20060103, 15.28.52 : Writing image database
+20060103, 15.28.52 : Writing folder database
+20060103, 15.28.52 : File edit 'tnsqrrodelook.jpg' complete
+20060103, 15.29.00 : Writing image database
+20060103, 15.29.00 : Writing folder database
+20060103, 15.29.00 : File edit 'rialto.jpg' complete
+20060103, 15.29.07 : Writing image database
+20060103, 15.29.07 : Writing folder database
+20060103, 15.29.07 : File edit 'chambercom.jpg' complete
+20060103, 15.29.40 : Writing image database
+20060103, 15.29.40 : Writing folder database
+20060103, 15.29.40 : File edit 'bridge.jpg' complete
+20060103, 15.29.47 : Writing image database
+20060103, 15.29.47 : Writing folder database
+20060103, 15.29.47 : File edit 'auggies.jpg' complete
+20060103, 15.48.03 : Setup saved
+20060103, 15.56.38 : Writing image database
+20060103, 15.56.38 : Writing folder database
+20060103, 15.56.38 : File edit 'statue.jpg' complete
+20060103, 15.57.01 : Writing image database
+20060103, 15.57.01 : Writing folder database
+20060103, 15.57.01 : File edit 'statue.jpg' complete
+20060103, 15.57.28 : Writing image database
+20060103, 15.57.28 : Writing folder database
+20060103, 15.57.28 : File edit 'statue.jpg' complete
+20060103, 15.58.40 : Writing image database
+20060103, 15.58.40 : Writing folder database
+20060103, 15.58.40 : File edit 'statue.jpg' complete
+20060103, 15.59.01 : Writing image database
+20060103, 15.59.01 : Writing folder database
+20060103, 15.59.01 : File edit 'statue.jpg' complete
+20060103, 16.16.20 : Writing image database
+20060103, 16.16.20 : Deleted 0 file(s)
+20060103, 16.16.24 : Writing image database
+20060103, 16.16.24 : Deleted 0 file(s)
+20060103, 16.16.37 : Writing image database
+20060103, 16.16.37 : Deleted 6 file(s)
+20060103, 16.16.46 : Writing folder database
+20060103, 16.16.46 : Deleted folder 'Lease'
+20060103, 16.17.22 : Writing image database
+20060103, 16.17.22 : Writing folder database
+20060103, 16.17.22 : File edit 'statue.jpg' complete
+20060103, 16.17.32 : Writing image database
+20060103, 16.17.32 : Writing folder database
+20060103, 16.17.32 : File edit 'tnsqrrodelook.jpg' complete
+20060103, 16.18.14 : Writing image database
+20060103, 16.18.14 : Writing folder database
+20060103, 16.18.14 : File edit 'statue.jpg' complete
+20060103, 16.18.27 : Writing image database
+20060103, 16.18.27 : Writing folder database
+20060103, 16.18.27 : File edit 'tnsqrrodelook.jpg' complete
+20060103, 16.18.50 : Writing image database
+20060103, 16.18.50 : Writing folder database
+20060103, 16.18.50 : File edit 'rialto.jpg' complete
+20060103, 16.18.56 : Writing image database
+20060103, 16.18.56 : Writing folder database
+20060103, 16.18.56 : File edit 'chambercom.jpg' complete
+20060103, 16.19.04 : Writing image database
+20060103, 16.19.04 : Writing folder database
+20060103, 16.19.04 : File edit 'bridge.jpg' complete
+20060103, 16.19.16 : Writing image database
+20060103, 16.19.16 : Writing folder database
+20060103, 16.19.16 : File edit 'bridge.jpg' complete
+20060103, 16.19.19 : Writing image database
+20060103, 16.19.19 : Writing folder database
+20060103, 16.19.19 : File edit 'auggies.jpg' complete
+20060103, 16.19.43 : Writing image database
+20060103, 16.19.43 : Writing folder database
+20060103, 16.19.43 : File edit 'statue.jpg' complete
+20060103, 16.19.57 : Writing image database
+20060103, 16.19.57 : Writing folder database
+20060103, 16.19.57 : File edit 'statue.jpg' complete
+20060103, 16.37.22 : Writing image database
+20060103, 16.37.22 : Deleted 6 file(s)
+20060103, 16.39.13 : Writing folder database
+20060103, 16.39.13 : Created folder 'Cherry Lake, Sumter County Commercial Property'
+20060103, 22.15.02 : Security logoff
+20060103, 22.15.09 : Logon from 24.94.159.232
+20060103, 22.25.25 : Uploaded files
+20060103, 22.25.27 : Import started
+20060103, 22.25.27 : Importing 'IMG_0232.jpg' (534750 bytes)
+20060103, 22.25.38 :  * finished creating thumbnails
+20060103, 22.25.38 :  * finished adding file to database
+20060103, 22.25.38 :  = finished importing 'IMG_0232.jpg'
+20060103, 22.25.38 : Writing image database
+20060103, 22.25.38 : Finished importing 1 file(s). Gallery now contains 2 images
+20060103, 22.25.57 : Writing image database
+20060103, 22.25.57 : Writing folder database
+20060103, 22.25.57 : File edit 'LakeFront.jpg' complete
+20060103, 22.28.25 : Writing image database
+20060103, 22.28.25 : Deleted 
+20060103, 22.31.30 : Logon from 24.94.159.232
+20060103, 22.31.46 : Uploaded files
+20060103, 22.31.48 : Import started
+20060103, 22.31.48 : Importing 'IMG_0232.jpg' (534750 bytes)
+20060103, 22.31.59 :  * finished creating thumbnails
+20060103, 22.31.59 :  * finished adding file to database
+20060103, 22.31.59 :  = finished importing 'IMG_0232.jpg'
+20060103, 22.31.59 : Writing image database
+20060103, 22.31.59 : Finished importing 1 file(s). Gallery now contains 2 images
+20060103, 22.33.32 : Uploaded files
+20060103, 22.33.33 : Import started
+20060103, 22.33.33 : Importing 'IMG_0233.jpg' (1162506 bytes)
+20060103, 22.33.45 :  * finished creating thumbnails
+20060103, 22.33.45 :  * finished adding file to database
+20060103, 22.33.45 :  = finished importing 'IMG_0233.jpg'
+20060103, 22.33.45 : Importing 'IMG_0234.jpg' (956950 bytes)
+20060103, 22.33.56 :  * finished creating thumbnails
+20060103, 22.33.56 :  * finished adding file to database
+20060103, 22.33.56 :  = finished importing 'IMG_0234.jpg'
+20060103, 22.33.56 : Importing 'IMG_0235.jpg' (1137129 bytes)
+20060103, 22.34.35 : Import started
+20060103, 22.34.35 : Importing 'IMG_0233.jpg' (1162506 bytes)
+20060103, 22.34.35 :  * finished creating thumbnails
+20060103, 22.34.35 :  * finished adding file to database
+20060103, 22.34.35 :  = finished importing 'IMG_0233.jpg'
+20060103, 22.34.35 : Importing 'IMG_0234.jpg' (956950 bytes)
+20060103, 22.34.35 :  * finished creating thumbnails
+20060103, 22.34.35 :  * finished adding file to database
+20060103, 22.34.35 :  = finished importing 'IMG_0234.jpg'
+20060103, 22.34.35 : Importing 'IMG_0235.jpg' (1137129 bytes)
+20060103, 22.34.35 :  * finished creating thumbnails
+20060103, 22.34.35 :  * finished adding file to database
+20060103, 22.34.35 :  = finished importing 'IMG_0235.jpg'
+20060103, 22.34.35 : Importing 'IMG_0236.jpg' (759669 bytes)
+20060103, 22.34.47 :  * finished creating thumbnails
+20060103, 22.34.47 :  * finished adding file to database
+20060103, 22.34.47 :  = finished importing 'IMG_0236.jpg'
+20060103, 22.34.47 : Writing image database
+20060103, 22.34.47 : Finished importing 4 file(s). Gallery now contains 6 images
+20060103, 22.35.09 : Uploaded files
+20060103, 22.35.10 : Import started
+20060103, 22.35.10 : Importing 'IMG_0237.jpg' (954489 bytes)
+20060103, 22.35.22 :  * finished creating thumbnails
+20060103, 22.35.22 :  * finished adding file to database
+20060103, 22.35.22 :  = finished importing 'IMG_0237.jpg'
+20060103, 22.35.22 : Importing 'IMG_0238.jpg' (679913 bytes)
+20060103, 22.35.34 :  * finished creating thumbnails
+20060103, 22.35.34 :  * finished adding file to database
+20060103, 22.35.34 :  = finished importing 'IMG_0238.jpg'
+20060103, 22.35.34 : Importing 'IMG_0239.jpg' (1030679 bytes)
+20060103, 22.36.15 : Import started
+20060103, 22.36.15 : Importing 'IMG_0237.jpg' (954489 bytes)
+20060103, 22.36.15 :  * finished creating thumbnails
+20060103, 22.36.15 :  * finished adding file to database
+20060103, 22.36.15 :  = finished importing 'IMG_0237.jpg'
+20060103, 22.36.15 : Importing 'IMG_0238.jpg' (679913 bytes)
+20060103, 22.36.15 :  * finished creating thumbnails
+20060103, 22.36.15 :  * finished adding file to database
+20060103, 22.36.15 :  = finished importing 'IMG_0238.jpg'
+20060103, 22.36.15 : Importing 'IMG_0239.jpg' (1030679 bytes)
+20060103, 22.36.15 :  * finished creating thumbnails
+20060103, 22.36.15 :  * finished adding file to database
+20060103, 22.36.15 :  = finished importing 'IMG_0239.jpg'
+20060103, 22.36.15 : Importing 'IMG_0240.jpg' (582298 bytes)
+20060103, 22.36.26 :  * finished creating thumbnails
+20060103, 22.36.26 :  * finished adding file to database
+20060103, 22.36.26 :  = finished importing 'IMG_0240.jpg'
+20060103, 22.36.26 : Importing 'IMG_0241.jpg' (629431 bytes)
+20060103, 22.36.38 :  * finished creating thumbnails
+20060103, 22.36.38 :  * finished adding file to database
+20060103, 22.36.38 :  = finished importing 'IMG_0241.jpg'
+20060103, 22.36.38 : Writing image database
+20060103, 22.36.38 : Finished importing 5 file(s). Gallery now contains 11 images
+20060103, 22.37.14 : Writing image database
+20060103, 22.37.14 : Writing folder database
+20060103, 22.37.14 : File edit 'Roadside.jpg' complete
+20060103, 22.37.21 : Writing image database
+20060103, 22.37.21 : Writing folder database
+20060103, 22.37.21 : File edit 'field1.jpg' complete
+20060103, 22.37.28 : Writing image database
+20060103, 22.37.28 : Writing folder database
+20060103, 22.37.28 : File edit 'roadside2.jpg' complete
+20060103, 22.37.35 : Writing image database
+20060103, 22.37.35 : Writing folder database
+20060103, 22.37.35 : File edit 'intersection.jpg' complete
+20060103, 22.37.43 : Writing image database
+20060103, 22.37.43 : Writing folder database
+20060103, 22.37.43 : File edit 'field2.jpg' complete
+20060103, 22.38.09 : Writing image database
+20060103, 22.38.09 : Writing folder database
+20060103, 22.38.09 : File edit 'field3.jpg' complete
+20060103, 22.38.16 : Writing image database
+20060103, 22.38.16 : Writing folder database
+20060103, 22.38.16 : File edit 'sign3.jpg' complete
+20060103, 22.38.43 : Writing image database
+20060103, 22.38.43 : Writing folder database
+20060103, 22.38.43 : File edit 'sign2.jpg' complete
+20060103, 22.38.49 : Writing image database
+20060103, 22.38.49 : Writing folder database
+20060103, 22.38.49 : File edit 'sign1.jpg' complete
+20060103, 22.38.56 : Writing image database
+20060103, 22.38.56 : Writing folder database
+20060103, 22.38.56 : File edit 'lake1.jpg' complete
+20060103, 22.39.07 : Writing image database
+20060103, 22.39.07 : Writing folder database
+20060103, 22.39.07 : File edit 'sign2a.jpg' complete
+20060103, 22.39.25 : Writing image database
+20060103, 22.39.25 : Writing folder database
+20060103, 22.39.25 : File edit 'sign1.jpg' complete
+20060103, 22.39.29 : Writing image database
+20060103, 22.39.29 : Writing folder database
+20060103, 22.39.29 : File edit 'sign2.jpg' complete
+20060103, 22.39.48 : Writing image database
+20060103, 22.39.48 : Writing folder database
+20060103, 22.39.48 : File edit 'sign2a.jpg' complete
+20060103, 22.39.57 : Writing image database
+20060103, 22.39.57 : Writing folder database
+20060103, 22.39.57 : File edit 'sign1.jpg' complete
+20060103, 22.40.03 : Writing image database
+20060103, 22.40.03 : Writing folder database
+20060103, 22.40.03 : File edit 'sign2.jpg' complete
+20060103, 22.40.18 : Writing image database
+20060103, 22.40.18 : Writing folder database
+20060103, 22.40.18 : File edit 'sign2a.jpg' complete
+20060103, 22.40.21 : Writing image database
+20060103, 22.40.21 : Writing folder database
+20060103, 22.40.21 : File edit 'sign2a.jpg' complete
+20060103, 22.40.32 : Writing image database
+20060103, 22.40.32 : Writing folder database
+20060103, 22.40.32 : File edit 'sign1.jpg' complete
+20060103, 22.40.41 : Writing image database
+20060103, 22.40.41 : Writing folder database
+20060103, 22.40.41 : File edit 'sign2.jpg' complete
+20060103, 22.40.47 : Writing image database
+20060103, 22.40.47 : Writing folder database
+20060103, 22.40.47 : File edit 'sign2.jpg' complete
+20060103, 22.40.54 : Writing image database
+20060103, 22.40.54 : Writing folder database
+20060103, 22.40.54 : File edit 'asd.jpg' complete
+20060103, 22.41.02 : Writing image database
+20060103, 22.41.02 : Writing folder database
+20060103, 22.41.02 : File edit 'fgh.jpg' complete
+20060103, 22.41.14 : Writing image database
+20060103, 22.41.14 : Writing folder database
+20060103, 22.41.14 : File edit 'sign1.jpg' complete
+20060103, 22.41.25 : Writing image database
+20060103, 22.41.25 : Writing folder database
+20060103, 22.41.25 : File edit 'sign2.jpg' complete
+20060103, 22.41.33 : Writing image database
+20060103, 22.41.33 : Writing folder database
+20060103, 22.41.33 : File edit 'sign1.jpg' complete
+20060103, 22.51.18 : Writing image database
+20060103, 22.51.18 : Writing folder database
+20060103, 22.51.18 : File edit 'sign1.jpg' complete
+20060103, 23.12.12 : Security logoff
+20060103, 23.12.18 : Logon from 24.94.159.232
+20060103, 23.14.35 : Writing image database
+20060103, 23.14.35 : Writing folder database
+20060103, 23.14.35 : File edit 'sign1.jpg' complete
+20060103, 23.15.45 : Writing image database
+20060103, 23.15.45 : Writing folder database
+20060103, 23.15.45 : File edit 'sign1.jpg' complete
+20060103, 23.16.21 : Writing image database
+20060103, 23.16.21 : Writing folder database
+20060103, 23.16.21 : File edit 'sign1.jpg' complete
+20060103, 23.20.12 : Writing image database
+20060103, 23.20.12 : Writing folder database
+20060103, 23.20.12 : File edit 'sign1.jpg' complete
+20060103, 23.22.15 : Writing image database
+20060103, 23.22.15 : Writing folder database
+20060103, 23.22.15 : File edit 'sign1.jpg' complete
+20060103, 23.24.00 : Logon from 24.94.159.232
+20060103, 23.32.49 : Logon from 24.94.159.232
+20060103, 23.34.56 : Writing image database
+20060103, 23.34.56 : Writing folder database
+20060103, 23.34.56 : File edit 'sign1.jpg' complete
+20060103, 23.35.57 : Writing image database
+20060103, 23.35.57 : Writing folder database
+20060103, 23.35.57 : File edit 'sign1.jpg' complete
+20060103, 23.39.00 : Writing image database
+20060103, 23.39.00 : Writing folder database
+20060103, 23.39.00 : File edit 'sign1.jpg' complete
+20060103, 23.39.14 : Writing image database
+20060103, 23.39.14 : Writing folder database
+20060103, 23.39.14 : File edit 'sign1.jpg' complete
+20060103, 23.39.32 : Writing image database
+20060103, 23.39.32 : Writing folder database
+20060103, 23.39.32 : File edit 'sign1.jpg' complete
+20060103, 23.39.44 : Writing image database
+20060103, 23.39.44 : Writing folder database
+20060103, 23.39.44 : File edit 'sign1.jpg' complete
+20060103, 23.40.16 : Writing image database
+20060103, 23.40.16 : Writing folder database
+20060103, 23.40.16 : File edit 'sign1.jpg' complete
+20060103, 23.40.52 : Writing image database
+20060103, 23.40.52 : Writing folder database
+20060103, 23.40.52 : File edit 'sign1.jpg' complete
+20060103, 23.41.08 : Writing image database
+20060103, 23.41.08 : Writing folder database
+20060103, 23.41.08 : File edit 'sign1.jpg' complete
+20060103, 23.41.28 : Writing image database
+20060103, 23.41.28 : Writing folder database
+20060103, 23.41.28 : File edit 'sign1.jpg' complete
+20060103, 23.42.16 : Writing image database
+20060103, 23.42.16 : Writing folder database
+20060103, 23.42.16 : File edit 'sign1.jpg' complete
+20060103, 23.42.30 : Writing image database
+20060103, 23.42.30 : Writing folder database
+20060103, 23.42.30 : File edit 'sign1.jpg' complete
+20060103, 23.42.53 : Writing image database
+20060103, 23.42.53 : Writing folder database
+20060103, 23.42.53 : File edit 'sign1.jpg' complete
+20060103, 23.43.17 : Writing image database
+20060103, 23.43.17 : Writing folder database
+20060103, 23.43.17 : File edit 'sign1.jpg' complete
+20060103, 23.43.26 : Writing image database
+20060103, 23.43.26 : Writing folder database
+20060103, 23.43.26 : File edit 'sign1.jpg' complete
+20060103, 23.43.52 : Writing image database
+20060103, 23.43.52 : Writing folder database
+20060103, 23.43.52 : File edit 'sign1.jpg' complete
+20060103, 23.44.17 : Writing image database
+20060103, 23.44.17 : Writing folder database
+20060103, 23.44.17 : File edit 'sign1.jpg' complete
+20060103, 23.44.30 : Writing image database
+20060103, 23.44.30 : Writing folder database
+20060103, 23.44.30 : File edit 'sign1.jpg' complete
+20060103, 23.46.56 : Writing image database
+20060103, 23.46.56 : Writing folder database
+20060103, 23.46.56 : File edit 'sign1.jpg' complete
+20060103, 23.48.28 : Writing image database
+20060103, 23.48.28 : Writing folder database
+20060103, 23.48.28 : File edit 'sign1.jpg' complete
+20060103, 23.52.12 : Writing image database
+20060103, 23.52.12 : Writing folder database
+20060103, 23.52.12 : File edit 'sign2.jpg' complete
+20060103, 23.52.24 : Writing image database
+20060103, 23.52.24 : Writing folder database
+20060103, 23.52.24 : File edit 'sign3.jpg' complete
+20060103, 23.52.46 : Writing image database
+20060103, 23.52.46 : Writing folder database
+20060103, 23.52.46 : File edit 'intersection.jpg' complete
+20060103, 23.53.57 : Writing image database
+20060103, 23.53.57 : Writing folder database
+20060103, 23.53.57 : File edit 'field3.jpg' complete
+20060103, 23.54.08 : Writing image database
+20060103, 23.54.08 : Writing folder database
+20060103, 23.54.08 : File edit 'lake1.jpg' complete
+20060103, 23.54.19 : Writing image database
+20060103, 23.54.19 : Writing folder database
+20060103, 23.54.19 : File edit 'field1.jpg' complete
+20060103, 23.54.27 : Writing image database
+20060103, 23.54.27 : Writing folder database
+20060103, 23.54.27 : File edit 'roadside2.jpg' complete
+20060103, 23.54.47 : Writing image database
+20060103, 23.54.47 : Writing folder database
+20060103, 23.54.47 : File edit 'Roadside.jpg' complete
+20060103, 23.55.33 : Writing image database
+20060103, 23.55.33 : Writing folder database
+20060103, 23.55.33 : File edit 'Roadside.jpg' complete
+20060103, 23.55.40 : Writing image database
+20060103, 23.55.40 : Writing folder database
+20060103, 23.55.40 : File edit 'Roadside.jpg' complete
+20060103, 23.56.21 : Writing image database
+20060103, 23.56.21 : Writing folder database
+20060103, 23.56.21 : File edit 'field2.jpg' complete
+20060103, 23.56.41 : Writing image database
+20060103, 23.56.41 : Writing folder database
+20060103, 23.56.41 : File edit 'sign1.jpg' complete
+20060103, 23.56.44 : Writing image database
+20060103, 23.56.44 : Writing folder database
+20060103, 23.56.44 : File edit 'sign2.jpg' complete
+20060103, 23.56.46 : Writing image database
+20060103, 23.56.46 : Writing folder database
+20060103, 23.56.46 : File edit 'lake1.jpg' complete
+20060103, 23.57.23 : Writing image database
+20060103, 23.57.23 : Writing folder database
+20060103, 23.57.23 : File edit 'field2.jpg' complete
+20060103, 23.58.47 : Writing image database
+20060103, 23.58.47 : Writing folder database
+20060103, 23.58.47 : File edit 'field2.jpg' complete
+20060104, 00.00.22 : Uploaded files
+20060104, 00.00.23 : Import started
+20060104, 00.00.23 : Importing 'productive2.jpg' (101943 bytes)
+20060104, 00.00.23 :  * finished creating thumbnails
+20060104, 00.00.23 :  * finished adding file to database
+20060104, 00.00.23 :  = finished importing 'productive2.jpg'
+20060104, 00.00.23 : Writing image database
+20060104, 00.00.23 : Finished importing 1 file(s). Gallery now contains 12 images
+20060104, 00.01.02 : Writing image database
+20060104, 00.01.02 : Writing folder database
+20060104, 00.01.02 : File edit 'Sale.jpg' complete
+20060104, 00.01.54 : Writing image database
+20060104, 00.01.54 : Deleted 1 file(s)
+20060104, 00.02.05 : Uploaded files
+20060104, 00.02.06 : Import started
+20060104, 00.02.06 : Importing 'productive2.jpg' (101943 bytes)
+20060104, 00.02.06 :  * finished creating thumbnails
+20060104, 00.02.06 :  * finished adding file to database
+20060104, 00.02.06 :  = finished importing 'productive2.jpg'
+20060104, 00.02.06 : Writing image database
+20060104, 00.02.06 : Finished importing 1 file(s). Gallery now contains 12 images
+20060104, 00.02.33 : Writing image database
+20060104, 00.02.33 : Writing folder database
+20060104, 00.02.33 : File edit ' Sold.jpg' complete
+20060104, 00.03.32 : Writing image database
+20060104, 00.03.32 : Deleted 
+20060104, 00.04.10 : Writing folder database
+20060104, 00.04.10 : Created folder 'AdminFolder'
+20060104, 00.04.21 : Uploaded files
+20060104, 00.04.22 : Import started
+20060104, 00.04.22 : Importing 'productive2.jpg' (101943 bytes)
+20060104, 00.04.23 :  * finished creating thumbnails
+20060104, 00.04.23 :  * finished adding file to database
+20060104, 00.04.23 :  = finished importing 'productive2.jpg'
+20060104, 00.04.23 : Writing image database
+20060104, 00.04.23 : Finished importing 1 file(s). Gallery now contains 12 images
+20060104, 00.04.43 : Writing image database
+20060104, 00.04.43 : Writing folder database
+20060104, 00.04.43 : File edit 'SoldSign.jpg' complete
+20060104, 00.29.13 : Security logoff
+20060104, 00.29.21 : Logon from 24.94.159.232
+20060104, 00.30.33 : Writing image database
+20060104, 00.30.33 : Writing folder database
+20060104, 00.30.33 : File edit 'Roadside.jpg' complete
+20060104, 00.30.41 : Writing image database
+20060104, 00.30.41 : Writing folder database
+20060104, 00.30.41 : File edit 'field1.jpg' complete
+20060104, 00.30.46 : Writing image database
+20060104, 00.30.46 : Writing folder database
+20060104, 00.30.46 : File edit 'roadside2.jpg' complete
+20060104, 00.30.53 : Writing image database
+20060104, 00.30.53 : Writing folder database
+20060104, 00.30.53 : File edit 'intersection.jpg' complete
+20060104, 00.30.58 : Writing image database
+20060104, 00.30.58 : Writing folder database
+20060104, 00.30.58 : File edit 'field2.jpg' complete
+20060104, 00.31.02 : Writing image database
+20060104, 00.31.02 : Writing folder database
+20060104, 00.31.02 : File edit 'field2.jpg' complete
+20060104, 00.31.08 : Writing image database
+20060104, 00.31.08 : Writing folder database
+20060104, 00.31.08 : File edit 'field3.jpg' complete
+20060104, 00.31.14 : Writing image database
+20060104, 00.31.14 : Writing folder database
+20060104, 00.31.14 : File edit 'sign3.jpg' complete
+20060104, 00.31.20 : Writing image database
+20060104, 00.31.20 : Writing folder database
+20060104, 00.31.20 : File edit 'sign1.jpg' complete
+20060104, 00.31.25 : Writing image database
+20060104, 00.31.25 : Writing folder database
+20060104, 00.31.25 : File edit 'sign2.jpg' complete
+20060104, 00.31.30 : Writing image database
+20060104, 00.31.30 : Writing folder database
+20060104, 00.31.30 : File edit 'lake1.jpg' complete
+20060104, 00.31.40 : Writing image database
+20060104, 00.31.40 : Writing folder database
+20060104, 00.31.40 : File edit 'field3.jpg' complete
+20060104, 00.42.00 : Writing folder database
+20060104, 00.42.00 : Folder edit 'Cherry Lake' complete
+20060104, 00.42.37 : Writing folder database
+20060104, 00.42.37 : Folder edit 'Cherry Lake' complete
+20060104, 08.14.08 : Security logoff
+20060104, 08.14.21 : Logon from 24.94.159.232
+20060104, 08.15.09 : Writing folder database
+20060104, 08.15.09 : Folder edit '' complete
+20060104, 08.15.28 : Writing folder database
+20060104, 08.15.28 : Folder edit '' complete
+20060104, 08.16.07 : Writing folder database
+20060104, 08.16.07 : Folder edit '' complete
+20060104, 08.16.24 : Writing folder database
+20060104, 08.16.24 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060104, 08.16.29 : Writing folder database
+20060104, 08.16.29 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060104, 08.18.16 : Writing folder database
+20060104, 08.18.16 : Folder edit '' complete
+20060104, 08.19.02 : Writing folder database
+20060104, 08.19.02 : Folder edit '' complete
+20060104, 08.19.28 : Writing folder database
+20060104, 08.19.28 : Folder edit 'AdminFolder' complete
+20060104, 08.19.32 : Writing folder database
+20060104, 08.19.32 : Folder edit 'AdminFolder' complete
+20060104, 08.30.01 : Writing image database
+20060104, 08.30.01 : Writing folder database
+20060104, 08.30.01 : File edit 'Roadside.jpg' complete
+20060104, 08.30.48 : Writing image database
+20060104, 08.30.48 : Deleted 1 file(s)
+20060104, 08.30.56 : Writing folder database
+20060104, 08.30.56 : Deleted folder 'AdminFolder'
+20060104, 08.31.09 : Writing image database
+20060104, 08.31.09 : Writing folder database
+20060104, 08.31.09 : File edit 'sign1.jpg' complete
+20060104, 14.35.16 : Logon from 69.34.11.32
+20060104, 14.39.03 : Logon from 69.34.11.32
+20060104, 14.40.34 : Writing folder database
+20060104, 14.40.34 : Created folder 'Lease'
+20060104, 21.22.40 : Logon from 24.94.159.232
+20060104, 21.22.46 : Logoff
+20060108, 16.25.59 : Logon from 24.94.159.232
+20060108, 16.30.02 : Logon from 24.94.159.232
+20060108, 16.33.49 : Writing folder database
+20060108, 16.33.49 : Created folder 'Test'
+20060108, 16.34.17 : Uploaded files
+20060108, 16.34.18 : Import started
+20060108, 16.34.18 : Importing 'PookPookPook.png' (878750 bytes)
+20060108, 16.34.19 :  * finished creating thumbnails
+20060108, 16.34.19 :  * finished adding file to database
+20060108, 16.34.19 :  = finished importing 'PookPookPook.png'
+20060108, 16.34.19 : Writing image database
+20060108, 16.34.19 : Finished importing 1 file(s). Gallery now contains 12 images
+20060108, 16.39.49 : Writing image database
+20060108, 16.39.49 : Writing folder database
+20060108, 16.39.49 : File edit 'PookPookPook.png' complete
+20060108, 17.04.20 : Security logoff
+20060108, 17.04.28 : Logon from 24.94.159.232
+20060108, 17.04.55 : Writing image database
+20060108, 17.04.55 : Writing folder database
+20060108, 17.04.55 : File edit 'PookPookPook.png' complete
+20060108, 17.08.04 : Writing image database
+20060108, 17.08.04 : Writing folder database
+20060108, 17.08.04 : File edit 'PookPookPook.png' complete
+20060108, 17.13.59 : Writing image database
+20060108, 17.13.59 : Deleted 
+20060108, 17.14.11 : Uploaded files
+20060108, 17.14.12 : Import started
+20060108, 17.14.12 : Importing 'est la Vie.jpg' (54202 bytes)
+20060108, 17.14.12 :  * finished creating thumbnails
+20060108, 17.14.12 :  * finished adding file to database
+20060108, 17.14.12 :  = finished importing 'est la Vie.jpg'
+20060108, 17.14.12 : Writing image database
+20060108, 17.14.12 : Finished importing 1 file(s). Gallery now contains 12 images
+20060108, 17.14.35 : Writing folder database
+20060108, 17.14.35 : Created folder 'Test Folder'
+20060108, 17.14.42 : Writing image database
+20060108, 17.14.42 : Moved 1 file(s) to 'Test Folder'
+20060108, 17.14.46 : Writing folder database
+20060108, 17.14.46 : Deleted folder 'Lease'
+20060108, 17.15.43 : Writing image database
+20060108, 17.15.43 : Writing folder database
+20060108, 17.15.43 : File edit 'TestPic.jpg' complete
+20060108, 17.21.58 : Writing folder database
+20060108, 17.21.58 : Folder edit 'Cherry Lake- Sumter County Commercial Property<br>Lovle 25 acres on sumter lake- $75 thsounds+' complete
+20060108, 19.23.58 : Security logoff
+20060108, 19.24.05 : Logon from 24.94.159.232
+20060108, 19.24.27 : Writing image database
+20060108, 19.24.27 : Deleted 1 file(s)
+20060108, 19.24.47 : Writing folder database
+20060108, 19.24.47 : Deleted folder 'Test Folder'
+20060108, 19.27.33 : Writing folder database
+20060108, 19.27.33 : Created folder 'Lease'
+20060108, 19.27.54 : Writing folder database
+20060108, 19.27.54 : Created folder '2200 Building'
+20060108, 19.28.17 : Writing folder database
+20060108, 19.28.17 : Created folder 'Fish Camp Lake'
+20060108, 19.44.57 : Security logoff
+20060108, 19.45.10 : Logon from 24.94.159.232
+20060108, 19.47.10 : Writing folder database
+20060108, 19.47.10 : Folder edit 'Peninsula Property-  Tavares' complete
+20060109, 12.57.01 : Logon from 216.49.220.27
+20060109, 12.57.41 : Writing folder database
+20060109, 12.57.41 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060109, 12.58.11 : Writing folder database
+20060109, 12.58.11 : Created folder 'Test Folder'
+20060109, 12.58.43 : Writing folder database
+20060109, 12.58.43 : Folder edit 'Test Folder' complete
+20060109, 12.58.55 : Writing folder database
+20060109, 12.58.55 : Deleted folder 'Test Folder'
+20060113, 19.21.47 : Logon from 24.94.159.232
+20060113, 19.36.24 : Logoff
+20060113, 19.51.06 : Logon from 24.94.159.232
+20060113, 22.04.32 : Logon from 24.94.159.232
+20060113, 22.04.42 : Logon from 24.94.159.232
+20060113, 22.04.54 : Logon from 24.94.159.232
+20060113, 22.05.19 : Logon from 24.94.159.232
+20060113, 22.07.16 : Logon from 24.94.159.232
+20060113, 22.08.38 : Uploaded files
+20060113, 22.08.39 : Import started
+20060113, 22.08.39 : Importing 'for_sale_sign.JPG' (21900 bytes)
+20060113, 22.08.39 :  * finished creating thumbnails
+20060113, 22.08.39 :  * finished adding file to database
+20060113, 22.08.39 :  = finished importing 'for_sale_sign.JPG'
+20060113, 22.08.40 : Writing image database
+20060113, 22.08.40 : Finished importing 1 file(s). Gallery now contains 12 images
+20060113, 22.09.03 : Writing folder database
+20060113, 22.09.03 : Folder edit 'Sale' complete
+20060113, 22.09.15 : Writing image database
+20060113, 22.09.15 : Writing folder database
+20060113, 22.09.15 : File edit 'for_sale_sign.JPG' complete
+20060113, 22.09.26 : Uploaded files
+20060113, 22.09.27 : Import started
+20060113, 22.09.27 : Importing 'for_lease_sign.JPG' (23622 bytes)
+20060113, 22.09.27 :  * finished creating thumbnails
+20060113, 22.09.27 :  * finished adding file to database
+20060113, 22.09.27 :  = finished importing 'for_lease_sign.JPG'
+20060113, 22.09.27 : Writing image database
+20060113, 22.09.27 : Finished importing 1 file(s). Gallery now contains 13 images
+20060113, 22.09.40 : Writing image database
+20060113, 22.09.40 : Writing folder database
+20060113, 22.09.40 : File edit 'for_lease_sign.JPG' complete
+20060113, 22.10.50 : Writing image database
+20060113, 22.10.50 : Writing folder database
+20060113, 22.10.50 : File edit 'for_lease_sign.JPG' complete
+20060113, 22.12.55 : Writing image database
+20060113, 22.12.55 : Writing folder database
+20060113, 22.12.55 : File edit 'for_sale_sign.JPG' complete
+20060113, 22.12.59 : Writing image database
+20060113, 22.12.59 : Writing folder database
+20060113, 22.12.59 : File edit 'for_lease_sign.JPG' complete
+20060113, 22.22.02 : Logon from 24.94.159.232
+20060113, 22.24.24 : Logon from 24.94.159.232
+20060115, 15.41.14 : Logon from 24.94.159.232
+20060115, 15.41.21 : Writing image database
+20060115, 15.41.21 : Deleted 
+20060115, 15.41.28 : Writing image database
+20060115, 15.41.28 : Deleted 
+20060115, 15.42.09 : Writing image database
+20060115, 15.42.09 : Writing folder database
+20060115, 15.42.09 : File edit 'sign3.jpg' complete
+20060115, 15.42.39 : Writing image database
+20060115, 15.42.39 : Writing folder database
+20060115, 15.42.39 : File edit 'sign3.jpg' complete
+20060116, 22.54.24 : Logon from 24.94.159.232
+20060116, 22.54.49 : Writing image database
+20060116, 22.54.49 : Writing folder database
+20060116, 22.54.49 : File edit 'sign3.jpg' complete
+20060116, 22.54.56 : Writing image database
+20060116, 22.54.56 : Writing folder database
+20060116, 22.54.56 : File edit 'sign1.jpg' complete
+20060116, 22.55.11 : Writing image database
+20060116, 22.55.11 : Writing folder database
+20060116, 22.55.11 : File edit 'sign2.jpg' complete
+20060117, 22.30.11 : Logon from 24.94.159.232

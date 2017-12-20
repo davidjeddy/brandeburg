@@ -1,0 +1,137 @@
+MG2 LFS (Log File System)
+
+Version: 0.5.1
+Install date: 2005-12-27
+
+---LOG BEGIN------------------
+
+20051227, 21.58.58 : Logon from 24.94.159.232
+20051227, 21.59.45 : Uploaded files
+20051227, 21.59.46 : Import started
+20051227, 21.59.46 : Importing 'attention_whore_mime[1].jpg' (25837 bytes)
+20051227, 21.59.47 :  * finished creating thumbnails
+20051227, 21.59.47 :  * finished adding file to database
+20051227, 21.59.47 :  = finished importing 'attention_whore_mime[1].jpg'
+20051227, 21.59.47 : Importing 'Goodbye.JPG' (69295 bytes)
+20051227, 21.59.47 :  * finished creating thumbnails
+20051227, 21.59.47 :  * finished adding file to database
+20051227, 21.59.47 :  = finished importing 'Goodbye.JPG'
+20051227, 21.59.47 : Importing 'ImportVSDomestic.jpg' (47334 bytes)
+20051227, 21.59.47 :  * finished creating thumbnails
+20051227, 21.59.47 :  * finished adding file to database
+20051227, 21.59.47 :  = finished importing 'ImportVSDomestic.jpg'
+20051227, 21.59.47 : Importing 'MakeItCount.jpg' (15449 bytes)
+20051227, 21.59.47 :  * finished creating thumbnails
+20051227, 21.59.47 :  * finished adding file to database
+20051227, 21.59.47 :  = finished importing 'MakeItCount.jpg'
+20051227, 21.59.48 : Writing image database
+20051227, 21.59.48 : Finished importing 4 file(s). Gallery now contains 4 images
+20051227, 22.01.19 : Writing image database
+20051227, 22.01.19 : Writing folder database
+20051227, 22.01.19 : File edit 'Goodbye.JPG' complete
+20051227, 22.01.36 : Writing folder database
+20051227, 22.01.36 : Created folder 'Rent'
+20051227, 22.01.47 : Writing folder database
+20051227, 22.01.47 : Created folder 'Lease'
+20051227, 22.02.33 : Setup saved
+20051227, 22.02.51 : Writing image database
+20051227, 22.02.51 : Writing folder database
+20051227, 22.02.51 : File edit 'Goodbye.JPG' complete
+20051227, 22.02.58 : Writing image database
+20051227, 22.02.58 : Writing folder database
+20051227, 22.02.58 : File edit 'ImportVSDomestic.jpg' complete
+20051227, 22.03.01 : Writing image database
+20051227, 22.03.02 : Writing folder database
+20051227, 22.03.02 : File edit 'MakeItCount.jpg' complete
+20051227, 22.03.04 : Writing image database
+20051227, 22.03.05 : Writing folder database
+20051227, 22.03.05 : File edit 'attention_whore_mime[1].jpg' complete
+20051227, 22.03.38 : Writing image database
+20051227, 22.03.38 : Deleted 4 file(s)
+20051227, 22.04.06 : Uploaded files
+20051227, 22.04.07 : Import started
+20051227, 22.04.07 : Importing '94416.jpg' (34598 bytes)
+20051227, 22.04.08 :  * finished creating thumbnails
+20051227, 22.04.08 :  * finished adding file to database
+20051227, 22.04.08 :  = finished importing '94416.jpg'
+20051227, 22.04.08 : Importing 'est la Vie.jpg' (54202 bytes)
+20051227, 22.04.08 :  * finished creating thumbnails
+20051227, 22.04.08 :  * finished adding file to database
+20051227, 22.04.08 :  = finished importing 'est la Vie.jpg'
+20051227, 22.04.08 : Importing 'pvp20050116.gif' (72798 bytes)
+20051227, 22.04.09 :  * finished creating thumbnails
+20051227, 22.04.09 :  * finished adding file to database
+20051227, 22.04.09 :  = finished importing 'pvp20050116.gif'
+20051227, 22.04.09 : Writing image database
+20051227, 22.04.09 : Finished importing 3 file(s). Gallery now contains 4 images
+20051227, 22.04.52 : Uploaded files
+20051227, 22.04.53 : Import started
+20051227, 22.04.53 : Importing 'Goodbye.JPG' (69295 bytes)
+20051227, 22.04.54 :  * finished creating thumbnails
+20051227, 22.04.54 :  * finished adding file to database
+20051227, 22.04.54 :  = finished importing 'Goodbye.JPG'
+20051227, 22.04.54 : Importing 'attention_whore_mime[1].jpg' (25837 bytes)
+20051227, 22.04.54 :  * finished creating thumbnails
+20051227, 22.04.54 :  * finished adding file to database
+20051227, 22.04.54 :  = finished importing 'attention_whore_mime[1].jpg'
+20051227, 22.04.54 : Importing 'arnoldSTFU.jpg' (35026 bytes)
+20051227, 22.04.54 :  * finished creating thumbnails
+20051227, 22.04.54 :  * finished adding file to database
+20051227, 22.04.54 :  = finished importing 'arnoldSTFU.jpg'
+20051227, 22.04.54 : Importing 'ImportVSDomestic.jpg' (47334 bytes)
+20051227, 22.04.55 :  * finished creating thumbnails
+20051227, 22.04.55 :  * finished adding file to database
+20051227, 22.04.55 :  = finished importing 'ImportVSDomestic.jpg'
+20051227, 22.04.55 : Writing image database
+20051227, 22.04.55 : Finished importing 4 file(s). Gallery now contains 8 images
+20051227, 22.05.50 : Writing image database
+20051227, 22.05.50 : Writing folder database
+20051227, 22.05.50 : File edit '94416.jpg' complete
+20051227, 22.05.59 : Writing image database
+20051227, 22.05.59 : Writing folder database
+20051227, 22.05.59 : File edit 'est la Vie.jpg' complete
+20051227, 22.06.11 : Writing image database
+20051227, 22.06.11 : Writing folder database
+20051227, 22.06.11 : File edit 'pvp20050116.gif' complete
+20051227, 22.34.48 : Security logoff
+20051227, 22.34.58 : Logon from 24.94.159.232
+20051227, 22.38.45 : Writing image database
+20051227, 22.38.45 : Moved 0 file(s) to 'Lease'
+20051227, 22.39.04 : Writing image database
+20051227, 22.39.04 : Writing folder database
+20051227, 22.39.04 : File edit '94416.jpg' complete
+20051227, 22.39.10 : Writing image database
+20051227, 22.39.10 : Writing folder database
+20051227, 22.39.10 : File edit 'est la Vie.jpg' complete
+20051227, 22.39.21 : Writing image database
+20051227, 22.39.21 : Writing folder database
+20051227, 22.39.21 : File edit 'pvp20050116.gif' complete
+20051227, 22.39.53 : Writing image database
+20051227, 22.39.53 : Writing folder database
+20051227, 22.39.53 : File edit 'Goodbye.JPG' complete
+20051227, 22.40.00 : Writing image database
+20051227, 22.40.00 : Writing folder database
+20051227, 22.40.00 : File edit 'ImportVSDomestic.jpg' complete
+20051227, 22.40.06 : Writing image database
+20051227, 22.40.06 : Writing folder database
+20051227, 22.40.06 : File edit 'arnoldSTFU.jpg' complete
+20051227, 22.40.13 : Writing image database
+20051227, 22.40.13 : Writing folder database
+20051227, 22.40.13 : File edit 'attention_whore_mime[1].jpg' complete
+20051227, 22.40.38 : Writing image database
+20051227, 22.40.38 : Writing folder database
+20051227, 22.40.38 : File edit 'arnoldSTFU.jpg' complete
+20051227, 22.41.15 : Writing folder database
+20051227, 22.41.15 : Folder edit 'Lease' complete
+20051227, 22.41.29 : Writing folder database
+20051227, 22.41.29 : Folder edit 'Rent' complete
+20051227, 23.00.55 : Security logoff
+20051227, 23.01.13 : Logon from 24.94.159.232
+20051227, 23.39.46 : Logon from 65.35.237.108
+20051227, 23.59.17 : Security logoff
+20051227, 23.59.23 : Logon from 24.94.159.232
+20051228, 00.00.07 : Setup saved
+20051228, 23.08.46 : Logon from 24.94.159.232
+20051228, 23.08.55 : Writing folder database
+20051228, 23.08.55 : Folder edit 'Sale' complete
+20051228, 23.17.10 : Database backup complete

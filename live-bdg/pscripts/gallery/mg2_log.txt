@@ -1,0 +1,169 @@
+MG2 LFS (Log File System)
+
+Version: 0.5.1
+Install date: 2006-01-17
+
+---LOG BEGIN------------------
+
+20060117, 23.02.31 : Logon from 24.94.159.232
+20060117, 23.02.35 : Logoff
+20060117, 23.02.41 : Logon from 24.94.159.232
+20060117, 23.02.44 : Logoff
+20060117, 23.19.33 : Logon from 24.94.159.232
+20060117, 23.20.00 : Logon from 24.94.159.232
+20060117, 23.20.17 : Logon from 24.94.159.232
+20060117, 23.23.09 : Logon from 24.94.159.232
+20060117, 23.23.19 : Uploaded files
+20060117, 23.23.20 : Import started
+20060117, 23.23.20 : Importing 'fire[1].jpg' (36013 bytes)
+20060117, 23.23.20 :  * finished creating thumbnails
+20060117, 23.23.20 :  * finished adding file to database
+20060117, 23.23.20 :  = finished importing 'fire[1].jpg'
+20060117, 23.23.20 : Writing image database
+20060117, 23.23.20 : Finished importing 1 file(s). Gallery now contains 12 images
+20060117, 23.23.39 : Writing image database
+20060117, 23.23.39 : Deleted 1 file(s)
+20060117, 23.23.55 : Setup saved
+20060117, 23.24.01 : Database backup complete
+20060117, 23.24.05 : Database backup complete
+20060118, 13.39.15 : Logon from 65.35.221.87
+20060118, 13.39.36 : Writing folder database
+20060118, 13.39.36 : Folder edit 'Fish Camp' complete
+20060118, 13.39.48 : Writing image database
+20060118, 13.39.48 : Moved 0 file(s) to ''
+20060118, 13.44.26 : Writing folder database
+20060118, 13.44.26 : Folder edit 'Sale' complete
+20060118, 13.46.07 : Writing image database
+20060118, 13.46.07 : Moved 0 file(s) to ''
+20060118, 13.49.19 : Writing folder database
+20060118, 13.49.19 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 13.52.40 : Writing folder database
+20060118, 13.52.40 : Folder edit '' complete
+20060118, 13.53.12 : Writing folder database
+20060118, 13.53.12 : Folder edit '' complete
+20060118, 13.53.49 : Writing folder database
+20060118, 13.53.49 : Folder edit 'Lease' complete
+20060118, 13.54.17 : Writing folder database
+20060118, 13.54.17 : Folder edit 'Lease' complete
+20060118, 13.55.56 : Writing folder database
+20060118, 13.55.56 : Folder edit 'Peninsula Property-  Tavares' complete
+20060118, 13.56.24 : Writing folder database
+20060118, 13.56.24 : Folder edit '2200 Building' complete
+20060118, 13.57.12 : Writing folder database
+20060118, 13.57.12 : Folder edit 'Fish Camp' complete
+20060118, 14.00.17 : Logon from 65.35.221.87
+20060118, 14.02.14 : Logon from 65.35.221.87
+20060118, 14.07.02 : Logon from 65.35.221.87
+20060118, 14.16.12 : Writing folder database
+20060118, 14.16.12 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 14.21.39 : Logon from 65.35.221.87
+20060118, 18.05.14 : Logon from 65.35.221.87
+20060118, 18.06.50 : Logon from 65.35.221.87
+20060118, 18.08.01 : Writing folder database
+20060118, 18.08.01 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 18.10.42 : Writing folder database
+20060118, 18.10.42 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 18.14.14 : Writing folder database
+20060118, 18.14.14 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 18.15.40 : Writing folder database
+20060118, 18.15.40 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 18.21.05 : Writing folder database
+20060118, 18.21.05 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 18.22.12 : Writing folder database
+20060118, 18.22.12 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 18.25.42 : Writing folder database
+20060118, 18.25.42 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.06.20 : Logon from 65.35.221.87
+20060118, 19.08.18 : Writing folder database
+20060118, 19.08.18 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.08.48 : Writing folder database
+20060118, 19.08.48 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.09.35 : Writing folder database
+20060118, 19.09.35 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.10.44 : Writing folder database
+20060118, 19.10.44 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.16.33 : Writing folder database
+20060118, 19.16.33 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.19.38 : Writing folder database
+20060118, 19.19.38 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.20.20 : Writing folder database
+20060118, 19.20.20 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.21.27 : Writing folder database
+20060118, 19.21.27 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060118, 19.23.10 : Logon from 65.35.221.87
+20060118, 19.28.43 : Writing folder database
+20060118, 19.28.43 : Folder edit 'Cherry Lake- Sumter County Commercial Property' complete
+20060119, 11.38.06 : Logon from 65.35.221.87
+20060119, 11.38.30 : Writing folder database
+20060119, 11.38.30 : Folder edit '' complete
+20060119, 11.39.09 : Writing folder database
+20060119, 11.39.09 : Folder edit 'Lease' complete
+20060119, 11.39.32 : Writing folder database
+20060119, 11.39.32 : Folder edit '' complete
+20060119, 11.39.46 : Writing folder database
+20060119, 11.39.46 : Folder edit '' complete
+20060119, 11.41.20 : Setup saved
+20060119, 11.43.14 : Import started
+20060119, 11.43.15 : Writing image database
+20060119, 11.43.15 : Finished importing 0 file(s). Gallery now contains 11 images
+20060119, 11.44.23 : Writing folder database
+20060119, 11.44.23 : Folder edit '' complete
+20060119, 11.44.32 : Logoff
+20060119, 11.45.33 : Logon from 65.35.221.87
+20060119, 11.46.10 : Writing image database
+20060119, 11.46.10 : Moved 0 file(s) to ''
+20060119, 11.46.36 : Writing image database
+20060119, 11.46.36 : Moved 0 file(s) to ''
+20060119, 11.47.31 : Writing image database
+20060119, 11.47.31 : Moved 0 file(s) to 'Sale'
+20060126, 11.07.13 : Logon from 65.35.221.87
+20060126, 11.15.08 : Logon from 65.35.221.87
+20060126, 11.17.30 : Logon from 65.35.221.87
+20060126, 11.22.43 : Logon from 65.35.221.87
+20060126, 11.25.45 : Logon from 65.35.221.87
+20060126, 11.28.30 : Logon from 65.35.221.87
+20060126, 11.31.33 : Logon from 65.35.221.87
+20060126, 11.34.45 : Logon from 65.35.221.87
+20060126, 11.35.42 : Writing folder database
+20060126, 11.35.42 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.37.03 : Writing folder database
+20060126, 11.37.03 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.45.38 : Writing folder database
+20060126, 11.45.38 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.46.45 : Writing folder database
+20060126, 11.46.45 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.47.23 : Writing folder database
+20060126, 11.47.23 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.48.34 : Writing folder database
+20060126, 11.48.34 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.49.12 : Writing folder database
+20060126, 11.49.12 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.49.38 : Writing folder database
+20060126, 11.49.38 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.51.16 : Writing folder database
+20060126, 11.51.16 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.55.22 : Writing folder database
+20060126, 11.55.22 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 11.57.12 : Writing folder database
+20060126, 11.57.12 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.00.38 : Writing folder database
+20060126, 12.00.38 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.04.55 : Writing folder database
+20060126, 12.04.55 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.11.56 : Writing folder database
+20060126, 12.11.56 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.15.25 : Writing folder database
+20060126, 12.15.25 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.33.43 : Security logoff
+20060126, 12.33.50 : Logon from 65.35.221.87
+20060126, 12.35.32 : Writing folder database
+20060126, 12.35.32 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.36.15 : Writing folder database
+20060126, 12.36.15 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.37.36 : Writing folder database
+20060126, 12.37.36 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.38.46 : Writing folder database
+20060126, 12.38.46 : Folder edit 'Peninsula Property-  Tavares' complete
+20060126, 12.43.18 : Logon from 65.35.221.87
+20060126, 12.50.48 : Writing folder database
+20060126, 12.50.48 : Folder edit 'Peninsula Property-  Tavares' complete

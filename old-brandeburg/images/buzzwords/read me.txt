@@ -1,0 +1,7 @@
+this folder is created tgo hold images for the javascript random image cycle on in the top of the page.
+
+specs.
+
+image type jpg
+Dimensions  540X250
+Size per pic about 150kb-200kb try to stay in that range for equal loading times.
